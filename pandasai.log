@@ -1,0 +1,14 @@
+2023-11-20 10:17:57 [INFO] Question: plot GDP VS Social Support 
+2023-11-20 10:17:57 [INFO] Running PandasAI with langchain_ctransformers LLM...
+2023-11-20 10:17:57 [INFO] Prompt ID: cc10173e-16fb-438d-932d-1bdfa88f472a
+2023-11-20 10:18:15 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2023-11-20 10:18:19 [INFO] Question: plot
+2023-11-20 10:18:19 [INFO] Running PandasAI with langchain_ctransformers LLM...
+2023-11-20 10:18:19 [INFO] Prompt ID: 515c1d74-eac8-4b0b-9251-61e96c0fbc1f
+2023-11-20 11:02:32 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-11-20 11:09:34 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-11-20 11:10:38 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-11-20 11:30:34 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-11-20 11:33:00 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-11-20 11:34:06 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-11-20 11:34:11 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
